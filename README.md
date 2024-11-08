@@ -1,6 +1,16 @@
 Sistema (API REST) de usuários e departamentos.
 
-### Ferramentas
+### Ferramentas:
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="45" alt="postman logo" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="45" alt="eclipse logo" />
+<img width="8"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt="java logo" />
+<img width="8"/>
+</div>
+<br>
 
 Endpoints da API REST
 
